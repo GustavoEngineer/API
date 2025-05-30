@@ -1,0 +1,30 @@
+# Archivos binarios compilados
+bin/
+obj/
+
+# Archivos temporales de Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Carpetas de paquetes NuGet
+*.nupkg
+*.snupkg
+packages/
+
+# Archivos de logs
+*.log
+
+# Archivos de configuración local sensibles
+appsettings.Development.json
+
+# Configuración de Rider IDE
+.idea/
+
+# Configuración de VSCode
+.vscode/
+
+# Otros archivos innecesarios
+*.dbmdl
