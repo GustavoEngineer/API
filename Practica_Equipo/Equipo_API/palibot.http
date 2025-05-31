@@ -1,6 +1,0 @@
-@palibot_HostAddress = http://localhost:5206
-
-GET {{palibot_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
